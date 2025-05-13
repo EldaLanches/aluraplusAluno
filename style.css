@@ -102,7 +102,7 @@ body {
 
 .dispositivos__titulo {
     font-size: 48px;
-    cor: var(--branco-principal);
+    color: var(--branco-principal);
 }
 
 .dispositivos__lista {
