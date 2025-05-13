@@ -84,10 +84,6 @@ margin-bottom: 0.1em;
 color: var(--cinza-secundario);
 }
 
-.descricao texto {
-color: var(--cinza-secundario);
-}
-
 .secundario botao {
 display: inline-block;
 margin-top: 1em;
